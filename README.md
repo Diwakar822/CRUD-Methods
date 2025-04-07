@@ -26,7 +26,7 @@ This project demonstrates how to perform CRUD (Create, Read, Update, Delete) ope
 - **Update**: Modify existing entries.
 - **Delete**: Remove entries from the database.
 
- ==> Usage
+ ## Usage
  
 Open your browser and navigate to index.html.
 Use the provided interface to perform CRUD operations:
@@ -35,7 +35,7 @@ Read: View the list of entries displayed.
 Update: Click on an entry to edit it and save changes.
 Delete: Click the delete button next to an entry to remove it.
 
-==> API Endpoints
+## API Endpoints
 This project interacts with the following mock API endpoints (replace with your actual endpoints):
 
 GET: https://mocki.io/v1/your-get-endpoint - Retrieve all items.
@@ -45,7 +45,7 @@ DELETE: https://mocki.io/v1/your-delete-endpoint/:id - Delete an item by ID.
 Testing with Postman
 You can use Postman to test the API endpoints independently of the application. Here’s how:
 
-==> Open Postman.
+## Open Postman.
 
 Use the provided endpoints to test each CRUD operation:
 For GET, select GET method and enter the GET endpoint.
